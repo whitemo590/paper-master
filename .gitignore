@@ -1,0 +1,29 @@
+# 用户个人项目和模板（不上传）
+projects/应急预案结课论文_20251230/
+templates/user/《应急预案编制与管理》作业及结课论文要求.md
+
+# 通用忽略规则
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
